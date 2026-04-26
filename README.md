@@ -31,5 +31,3 @@ The goal of this repository is to:
 - Track progress in IT education and certifications
 - Build a portfolio of practical, real-world skills
 - Maintain organized documentation for review and growth
-
-## Structure
