@@ -2,27 +2,17 @@
 
 This repository tracks my completed and planned IT certifications.
 
----
-
-## Completed Certifications
-
-| Certification | Provider | Completion Date | Status |
-|---------------|----------|-----------------|--------|
-| Tech+ | CompTIA | 2025 | Completed |
+Chart will be sorted by order of completion; then by planned order.
 
 ---
 
-## In Progress
-
-| Certification | Provider | Target Completion | Status | Progression % |
-|---------------|----------|------------------|--------| -------- |
-| CC: certified in cybersecurity | ISC2 | May 30, 2025 | In Progress | 85 % |
-| CompTIA A+ Core 1 | CompTIA | xxx xx, 2026 | In Progress | 80 % |
-| CompTIA A+ Core 2 | CompTIA | xxx xx, 2026 | In Progress | 10 % |
-| CompTIA Network+ | CompTIA | xxx xx, 2026 | Planned |
-| CompTIA Security+ | CompTIA | xxx xx, 2026 | Planned | 15 % |
-| LPIC-1 Linux Essentials | Linux Professional Institute | 2027 | Planned |
-
----
-
-## Planned
+## Planned ✅❌
+| Vendor | Exam Code |Certification | Status | Date Obtained | Expireable? | Expire Date | notes |
+|--------|-----------|--------------|--------|---------------|-------------|-------------|-------|
+| CompTIA | xxx | Tech+ | Obtained | xxx xx 2025 | ❌ |
+| ISC2 | xxx | CC: certified in cybersecurity | Planned 2026 | xxx xx, xxxx | ✅ | 3 years later | 
+| Cisco | xxx | CCST: IT Support | Planned 2026 | xxx xx, xxxx | ✅ | 5 years later | 
+| CompTIA | xxx | A+ Core 1/2 | Planned 2026 | xxx xx, xxxx | ✅ | 3 years later |
+| CompTIA | xxx | Network+ | Planned 2026/27 | xxx xx, xxxx | ✅ |
+| CompTIA | xxx | Security+ | Planned 2026/27 | xxx xx, xxxx | ✅ |
+| Linux Professional Institute | xxx | LPIC-1 Linux Essentials | Planned 2027 | xxx xx, xxxx | ❌
