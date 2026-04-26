@@ -6,7 +6,7 @@ Chart will be sorted by order of completion; then by planned order.
 
 ---
 
-## Planned ✅❌
+## Certifications (Last Updated: Apr 26, 2026)
 | Vendor | Exam Code |Certification | Status | Date Obtained | Expireable? | Expire Date | notes |
 |--------|-----------|--------------|--------|---------------|-------------|-------------|-------|
 | CompTIA | xxx | Tech+ | Obtained | xxx xx 2025 | ❌ |
