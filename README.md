@@ -5,21 +5,21 @@ This repository contains a collection of my work, studies, and progress in Infor
 
 ## Contents
 
-### Labs
+### [Labs](Projects\Labs/Labs)
 Practical exercises and experiments covering a range of IT topics such as:
 - Networking fundamentals
 - Operating systems (Windows/Linux)
 - Security concepts
 - Troubleshooting scenarios
 
-### Projects
+### [Projects](Projects\Labs/Projects)
 Structured implementations and builds that demonstrate applied knowledge, including:
 - System configurations
 - Network setups
 - Security hardening
 - Automation scripts
 
-### Certification Tracking
+### [Certification Tracking](Certifications)
 A structured record of certifications I am pursuing or have completed. This may include:
 - Progress charts
 - Study timelines
